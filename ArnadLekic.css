@@ -1,0 +1,80 @@
+
+    ul.nav li{
+        display: inline;
+        margin: 5em;
+        background-color: rgb(153, 42, 85);
+        line-height: 100px;
+        color: white;
+        font-size: 21px;
+        text-shadow: 4px 4px 4px rgb(78, 11, 37);
+
+    }
+
+    ul.nav2 li{
+        
+        list-style-type: none;
+        margin-left: 10em;
+        color: white;
+        
+    }
+
+    header{
+        background-color: rgb(153, 42, 85);
+        opacity: 0.8;
+    }
+
+    body{
+        background-color: rgb(27, 26, 26);
+        background-image: url(slika9.jpg); background-repeat: no-repeat;
+    }
+
+    p.razmak{
+        color: white;
+        margin-top: 2em;
+        font-size: 23px;
+
+    }
+
+    p.razmak2{
+        color: white;
+        margin-top: 2em;
+        font-size: 20px;
+    }
+
+
+    img.razmak{
+        margin-left: 2em;
+    }
+    img.razmak2{
+        margin-left: 12em;
+    }
+
+
+    h2.razmak{
+        color: white;
+        margin-top: 2em;
+        font-size: 35px;
+    }
+
+    h2.razmak2{
+        color: white;
+        margin-top: 7em;
+        font-size: 30px;
+    }
+
+    footer{
+        margin-top: 20em;
+        background-image: url(slika50.jpg);
+        background-color: rgba(115, 33, 64, 0.666);
+    }
+    h3.razmak{
+        margin-left: 8em;
+        color: white;
+    }
+
+    a:link, a:visited{
+        text-decoration:none;
+
+    }
+
+   
